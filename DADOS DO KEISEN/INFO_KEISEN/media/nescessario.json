@@ -8,7 +8,7 @@
   "channel": false,
   "anticall": false,
   "aluguel": false,
-  "visualizarmsg": false,
+  "visualizarmsg": true,
   "botoes": true,
   "listanegraG": [
     "5511967187224@s.whatsapp.net",
@@ -23,7 +23,7 @@
   "API_KEY_INVERTEXTO": "6117|oJqDz5g3Uf91zuiAo8FiZzXpHlLGrVEV",
   "numero_dono1": "5511986059638",
   "numero_dono2": "258835146725",
-  "numero_dono3": "5511986059638",
+  "numero_dono3": "258878328954",
   "numero_dono4": "5511986059638",
   "numero_dono5": "5511986059638",
   "numero_dono6": "5511986059638",
